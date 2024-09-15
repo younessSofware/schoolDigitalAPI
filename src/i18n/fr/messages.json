@@ -1,0 +1,14 @@
+{
+  "new_store_created": "Nouveau magasin créé",
+  "new_msg_from": "Nouveau message de",
+  "new_order": "Nouvelle commande",
+  "new_order_from": "Nouvelle commande de",
+  "order_in_delivery": "Votre commande est en cours de livraison",
+  "order_deliver_by": "Votre commande sera livrée par",
+  "order_received": "Commande reçue",
+  "order_delivered": "Commande livrée avec succès",
+  "order_well_received": "Commande reçue avec succès",
+  "your_order_canceled": "Votre commande a été annulée",
+  "order_canceled": "Commande annulée",
+  "new_store_by": "Nouveau magasin ouvert par {owner}"
+}

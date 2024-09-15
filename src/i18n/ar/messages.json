@@ -1,0 +1,14 @@
+{
+    "new_store_created": "متجر جديد تم انشاءه",
+    "new_msg_from": "رسالة جديدة من",
+    "new_order": "طلبية جديدة",
+    "new_order_from": "طلبية جديدة من",
+    "order_in_delivery": "طلبيتك قيد التوصيل",
+    "order_deliver_by": "طلبيتك سيتم ايصالها بواسطة",
+    "order_received": "ثم تسليم الطلبية",
+    "order_delivered": "لقد ثم ايصال الطلبية بنجاح",
+    "order_well_received": "ثم تسليم الطلبية بنجاح",
+    "your_order_canceled": "قم الغاء طلبيتك",
+    "order_canceled": "ثم الغاء الطلبية",
+    "new_store_by": "ثم فتح متجر جديد من طرف {owner}"
+}
